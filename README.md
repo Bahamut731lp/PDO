@@ -1,6 +1,6 @@
 # Psaní dokumentace
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <p>
     <img src="https://img.shields.io/badge/University%20-TUL-5948AD?labelColor=black&style=for-the-badge" alt="University - TUL" />
@@ -22,6 +22,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/OndrejBraunsveig"><img src="https://avatars.githubusercontent.com/u/91661233?v=4?s=100" width="100px;" alt="Ondrej Braunsveig"/><br /><sub><b>Ondrej Braunsveig</b></sub></a><br /><a href="https://github.com/Bahamut731lp/PDO/commits?author=OndrejBraunsveig" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Tach3"><img src="https://avatars.githubusercontent.com/u/92500904?v=4?s=100" width="100px;" alt="Peter Spurny"/><br /><sub><b>Peter Spurny</b></sub></a><br /><a href="https://github.com/Bahamut731lp/PDO/commits?author=Tach3" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
