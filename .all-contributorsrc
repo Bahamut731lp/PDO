@@ -1,0 +1,25 @@
+{
+  "projectName": "PDO",
+  "projectOwner": "Bahamut731lp",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "OndrejBraunsveig",
+      "name": "Ondrej Braunsveig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91661233?v=4",
+      "profile": "https://github.com/OndrejBraunsveig",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": false
+}
