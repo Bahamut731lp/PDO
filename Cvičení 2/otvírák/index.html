@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="cs" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DSP</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script type="module">
+        import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm";
+    </script>
+    <style>
+        article {
+            break-after: always;
+        }
+        
+        section {
+            break-inside: avoid;
+        }
+    </style>
+    <style type="text/tailwindcss">
+        @layer components {
+            a {
+                @apply text-pink-700 underline cursor-pointer;
+            }
+            
+            p {
+                @apply text-justify;
+            }
+            
+            ul {
+                @apply list-disc ml-4 my-2;
+            }
+            
+            article {
+                @apply min-h-screen p-16 flex flex-col gap-4;
+            }
+            
+            dt {
+                @apply font-bold;
+            }
+            
+            dl {
+                @apply grid grid-cols-2 gap-y-4;
+            }
+        }
+    </style>
+</head>
+
+<body class="p-0">
+    <section
+    id="title"
+    class="px-16 py-8 min-h-screen bg-white text-black flex flex-col justify-between"
+    >
+    <div class="flex justify-between items-center">
+        <img
+        src="logo.jpg"
+        class="w-16 h-16 object-cover"
+        alt="Painsoftware Logo"
+        />
+        <h1>Freeman Industries</h1>
+    </div>
+    
+    <div class="grid gap-y-4">
+        <h1 class="text-6xl leading-none font-bold">Páčidlo</h1>
+        <h2 class="text-3xl tracking-wide italic">Nech sa Vám páčí.</h2>
+    </div>
+    
+    <div
+    class="inline-grid grid-cols-[min-content_auto] gap-x-2 text-neutral-400"
+    >
+    <div class="font-light text-right">Vypracoval</div>
+    <div class="">...</div>
+</div>
+</section>
+
+<article class="min-h-screen p-16">
+    <svg
+    xmlns="http://www.w3.org/2000/svg"
+    fill="none"
+    viewBox="0 0 24 24"
+    stroke-width="2"
+    stroke="currentColor"
+    class="w-48 h-48"
+    >
+    <path
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z"
+    />
+</svg>
+
+<section class="grid grid-cols-2 gap-4">
+    <div>
+        <h1 id="abstract" class="text-4xl font-bold mb-4">Varování</h1>
+        <p class="text-justify">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis illum
+            excepturi eum aliquam commodi est optio adipisci alias atque, nam
+            quisquam in cumque dicta ex, sunt dolorum repellendus. Assumenda,
+            excepturi?
+        </p>
+    </div>
+    <div>
+        <h1 id="abstract" class="text-4xl font-bold mb-4">Warning</h1>
+        <p class="text-justify">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis illum
+            excepturi eum aliquam commodi est optio adipisci alias atque, nam
+            quisquam in cumque dicta ex, sunt dolorum repellendus. Assumenda,
+            excepturi?
+        </p>
+    </div>
+</section>
+</article>
+</body>
+</html>
