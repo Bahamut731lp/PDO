@@ -45,6 +45,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "filipkralson",
+      "name": "Filip Král",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100779510?v=4",
+      "profile": "https://github.com/filipkralson",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
