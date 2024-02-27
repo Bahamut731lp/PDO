@@ -23,6 +23,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Bahamut731lp"><img src="https://avatars.githubusercontent.com/u/27443880?v=4?s=100" width="100px;" alt="Kevin Daněk"/><br /><sub><b>Kevin Daněk</b></sub></a><br /><a href="https://github.com/Bahamut731lp/PDO/commits?author=Bahamut731lp" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/musilovaanezka"><img src="https://avatars.githubusercontent.com/u/91880990?v=4?s=100" width="100px;" alt="Anežka Musilová"/><br /><sub><b>Anežka Musilová</b></sub></a><br /><a href="https://github.com/Bahamut731lp/PDO/commits?author=musilovaanezka" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/filipkralson"><img src="https://avatars.githubusercontent.com/u/100779510?v=4?s=100" width="100px;" alt="Filip Král"/><br /><sub><b>Filip Král</b></sub></a><br /><a href="https://github.com/Bahamut731lp/PDO/commits?author=filipkralson" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jakubklimo"><img src="https://avatars.githubusercontent.com/u/100779403?v=4?s=100" width="100px;" alt="jakubklimo"/><br /><sub><b>jakubklimo</b></sub></a><br /><a href="https://github.com/Bahamut731lp/PDO/commits?author=jakubklimo" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
