@@ -19,25 +19,25 @@ Při otevírání piva páčidlem je cílem odstranit uzávěr a umožnit volný
 Ujistěte se, že máte k dispozici čisté páčidlo a láhev piva, kterou chcete otevřít.
 Zkontrolujte, zda je lahve piva dobře uzavřená a zda není poškozená.
 
-2. **Zvolení Správné Techniky** \
+2. **Zvolení správné techniky** \
 Uchopte láhev piva pevně v jedné ruce a umístěte páčidlo pod okrajem víčka v druhé ruce.
 Zvolte úhel, pod kterým budete páčidlem působit na víčko, aby byl dosažen maximální účinek.
 
-3. **Manipulace s Páčidlem** \
+3. **Manipulace s páčidlem** \
 S pečlivým tlakem a kontrolou manipulujte s páčidlem pod okrajem víčka.
 Postupně zvedejte páčidlem víčko až do okamžiku, kdy se uzávěr uvolní od lahve.
 
-4. **Otevření Piva** \
+4. **Otevření piva** \
 Jakmile je uzávěr odstraněn, opatrně odklopte víčko piva a připravte se na jeho konzumaci.
 Ujistěte se, že nejsou žádné ostré hrany, které by mohly způsobit zranění.
 
-## Bezpečnostní Záležitosti
+## Bezpečnostní informace
 
-- **Ochrana Osobní Bezpečnosti** \
+- **Ochrana osobní bezpečnosti** \
 Dbejte na to, abyste při manipulaci s páčidlem nezranili své prsty nebo ruce.
 Vyhněte se používání přílišné síly, aby nedošlo k náhodnému rozlití piva nebo poškození lahve.
 
-- **Zodpovědná Konzumace** \
+- **Zodpovědná konzumace** \
 Otevřené pivo konzumujte zodpovědně a s ohledem na své zdraví a okolní prostředí.
 Nepijte a nepožívejte alkohol, pokud jste řidič nebo pokud konzumace alkoholu může ohrozit vaše zdraví.
 
