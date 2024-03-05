@@ -1,4 +1,5 @@
 # Bezpečnostní opatření
+![crowbar warning](../otvírák/assets/crowbar.png)
 
 ## Důležité bezpečnostní pokyny
 Důkladně si pročtěte návod a uschovejte ho pro pozdější použití.
