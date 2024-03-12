@@ -1,12 +1,10 @@
 # IS/STAG TUL
 
 ## Vstup do IS/STAG
-
-## Podávání přihlášek
-
-### Jak získat přihlašovací údaje IS/STAG?
-### Přihlášení do IS/STAG
-### Jak řešit problémy s přihlášením
+### Podávání přihlášek
+#### Jak získat přihlašovací údaje IS/STAG?
+#### Přihlášení do IS/STAG
+#### Problémy s přihlášením
 
 ## Pro studenty
 ### Rozvrh hodin
@@ -24,7 +22,8 @@
 ### Platby
 #### Co musím zaplatit
 #### Co mi bylo zaplaceno
-#### Nastavení číslo bankovního účtu
+#### Nastavení čísla bankovního účtu
+#### Stipendium
 
 ### Osobní údaje
 #### Změna osobních údajů
@@ -32,10 +31,21 @@
 #### Stažení osobních údajů
 
 ### Nový semestr
+#### Katalog předmětů
+#### Předzápis předmětů
+#### Kroužkový předzápis
 
 ### Nový akademický rok
 #### Zápis do nového roku
-#### Zpoplatněné studium
-#### 
+#### Poplatky za studium
 
 ## Pro vyučující
+### Předměty
+#### Sylabus předmětu
+#### Termíny
+#### Vytvoření e-learningového kurzu
+
+### Kvalifikační práce
+#### Založení nového tématu
+#### Schvalování tématu
+#### Nahrání posudku
