@@ -8,8 +8,10 @@
     *Klávesa <code>Win</code> se klávesa zpravidla umístěná mezi klávesou <code>alt</code> a <code>ctrl</code> s logem operačního Windows*
 
 2) Otevře se okno s názvem **Spustit**
-3) Do textového pole s názvem "Otevřít" zadejte příkaz <code>Get-Volume</code>
-4) Do okna powershellu se vypíše tabuľka s kolonkami "DriveLetter", "FriendlyName", "FileSystemType", "DriveType", "HealthStatus", "OperationalStatus", "SizeRemaining", "Size".
+3) Do okna s názvem Spustit zadejte "powershell"
+4) Zmáčkněte klávesu ENTER 
+5) Zadejte příkaz <code>Get-Volume</code>
+6) Do okna powershellu se vypíše tabuľka s kolonkami "DriveLetter", "FriendlyName", "FileSystemType", "DriveType", "HealthStatus", "OperationalStatus", "SizeRemaining", "Size".
 Pod "SizeRemaining" je vypísané koľko zostáva miesta na disku.
 
 
