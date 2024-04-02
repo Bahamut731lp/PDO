@@ -7,9 +7,12 @@
 #### Problémy s přihlášením
 
 ## Pro studenty
+
 ### Rozvrh hodin
 #### Zobrazení rozvrhu
 #### Přepínání rozvrhu hodin
+
+---
 
 ### Předměty
 #### Informace o kreditech
@@ -19,21 +22,29 @@
 #### Hodnocení předmětu
 #### Přehled splněných předmětů
 
+---
+
 ### Platby
 #### Co musím zaplatit
 #### Co mi bylo zaplaceno
 #### Nastavení čísla bankovního účtu
 #### Stipendium
 
+---
+
 ### Osobní údaje
 #### Změna osobních údajů
 #### Změna kontaktních údajů
 #### Stažení osobních údajů
 
+---
+
 ### Nový semestr
 #### Katalog předmětů
 #### Předzápis předmětů
 #### Kroužkový předzápis
+
+---
 
 ### Nový akademický rok
 #### Zápis do nového roku
@@ -44,6 +55,8 @@
 #### Sylabus předmětu
 #### Termíny
 #### Vytvoření e-learningového kurzu
+
+---
 
 ### Kvalifikační práce
 #### Založení nového tématu
