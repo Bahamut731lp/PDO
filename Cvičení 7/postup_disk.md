@@ -5,7 +5,9 @@
 
 1) Zmáčkni klávesovou zkratku <code>Win</code>+<code>R</code>
 
-    *Klávesa <code>Win</code> se klávesa zpravidla umístěná mezi klávesou <code>alt</code> a <code>ctrl</code> s logem operačního Windows*
+    *Klávesa <code>Win</code> se klávesa zpravidla umístěná mezi klávesou <code>alt</code> a <code>ctrl</code> s logem operačního systému Windows*
+
+    <svg xmlns="http://www.w3.org/2000/svg" height="88" width="88" xmlns:v="https://vecta.io/nano"><path d="M0 12.402l35.687-4.86.016 34.423-35.67.203zm35.67 33.529l.028 34.453L.028 75.48.026 45.7zm4.326-39.025L87.314 0v41.527l-47.318.376zm47.329 39.349l-.011 41.34-47.318-6.678-.066-34.739z" fill="#00adef"/></svg>
 
 2) Otevře se okno s názvem **Spustit**
 3) Do okna s názvem Spustit zadejte "powershell"
@@ -22,7 +24,9 @@ Pod "SizeRemaining" je vypísané koľko zostáva miesta na disku.
 
 1) Zmáčkni klávesovou zkratku <code>Win</code>+<code>R</code>
 
-    *Klávesa <code>Win</code> se klávesa zpravidla umístěná mezi klávesou <code>alt</code> a <code>ctrl</code> s logem operačního Windows*
+    *Klávesa <code>Win</code> se klávesa zpravidla umístěná mezi klávesou <code>alt</code> a <code>ctrl</code> s logem operačního systému Windows*
+
+    <svg xmlns="http://www.w3.org/2000/svg" height="88" width="88" xmlns:v="https://vecta.io/nano"><path d="M0 12.402l35.687-4.86.016 34.423-35.67.203zm35.67 33.529l.028 34.453L.028 75.48.026 45.7zm4.326-39.025L87.314 0v41.527l-47.318.376zm47.329 39.349l-.011 41.34-47.318-6.678-.066-34.739z" fill="#00adef"/></svg>
 
 2) Otevře se okno s názvem **Spustit**
 3) Do textového pole s názvem "Otevřít" zadejte <code>diskmgmt.msc</code>
