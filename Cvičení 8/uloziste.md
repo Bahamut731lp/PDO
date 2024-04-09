@@ -14,12 +14,12 @@ Existujú rôzne typy diskov, ako napríklad pevné disky (hard disk drives - HD
 Úložisko je širší termín, ktorý zahŕňa akékoľvek médium alebo zariadenie, ktoré umožňuje ukladanie dát. Okrem diskov môžu úložiská zahŕňať napríklad flash disky, pamäťové karty, CD/DVD disky, cloudové úložiská a ďalšie. Úložiská môžu byť používané na dočasné ukladanie dát alebo na zálohovanie a archiváciu dôležitých informácií. Ich účelom je poskytnúť spôsob, ako uchovať a neskôr obnoviť dáta, keď je to potrebné.
 
 ### Příkazová řádka
-Rozhraní, umožňující interakci s operačním systémem pomocí příkazů
+Rozhraní, umožňující interakci s operačním systémem pomocí příkazů.
 
 ![alt text](./obrazky/command_line.png)
 
 ### Terminál
-Program nebo zařízení, umožňující připojení k příkazové řádce
+Program nebo zařízení, umožňující připojení k příkazové řádce.
 
 ![alt text](./obrazky/cmd2.png)
 
