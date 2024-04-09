@@ -21,7 +21,7 @@ Rozhraní, umožňující interakci s operačním systémem pomocí příkazů
 ### Terminál
 Program nebo zařízení, umožňující připojení k příkazové řádce
 
-![alt text](./obrazky/cmd.png)
+![alt text](./obrazky/cmd2.png)
 
 ### Klávesa Windows
 Klávesa též známá jako Start, Logo, OS, Super nebo Winkey. Standardně je umístěná v levé části posledního spodního řádku klávesnice typicky mezi klávesami Ctrl a Alt.
