@@ -58,11 +58,11 @@ Pod "SizeRemaining" je vypísané koľko zostáva miesta na disku.
 1) Otevřete Průzkumníka souborů
 2) Po pravé straně se nachází panel s záložkami - klikněte na "Tento počítač"
 
-![](./obrazky/tento_pocitac.png)
+![](./obrazky/pruzkumnik.png)
 
 3) Otevře se vám okno, ve kterém vidíte sekce "složky" a "zařízení a jednotky"
 
-![alt text](./obrazky/tento_pocitac_.png)
+![alt text](./obrazky/tentoPocitac.png)
 4) V sekci "Zařízení a jednotky" vidíte jednotlivá připojená úložiště a jejich kapacity
 ## Ubuntu 22.04 Matte
 1. Uživatel je přihlášen do počítače
