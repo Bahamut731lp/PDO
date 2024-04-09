@@ -17,8 +17,11 @@ Existujú rôzne typy diskov, ako napríklad pevné disky (hard disk drives - HD
 Rozhraní, umožňující interakci s operačním systémem pomocí příkazů
 
 ![alt text](./obrazky/command_line.png)
+
 ### Terminál
 Program nebo zařízení, umožňující připojení k příkazové řádce
+
+![alt text](./obrazky/cmd.png)
 
 ### Klávesa Windows
 Klávesa též známá jako Start, Logo, OS, Super nebo Winkey. Standardně je umístěná v levé části posledního spodního řádku klávesnice typicky mezi klávesami Ctrl a Alt.
