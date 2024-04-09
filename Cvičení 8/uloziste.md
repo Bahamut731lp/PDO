@@ -55,7 +55,7 @@ Pod "SizeRemaining" je vypísané koľko zostáva miesta na disku.
 
 **V případě, že jste přihlášen na účtě, který má administrátorská práva**:
 
-1) Otevřete průzkumníka souborů
+1) Otevřete Průzkumníka souborů
 2) Po pravé straně se nachází panel s záložkami - klikněte na "Tento počítač"
 
 ![](./obrazky/tento_pocitac.png)
