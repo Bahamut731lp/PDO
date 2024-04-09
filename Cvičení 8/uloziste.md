@@ -16,6 +16,7 @@ Existujú rôzne typy diskov, ako napríklad pevné disky (hard disk drives - HD
 ### Příkazová řádka
 Rozhraní, umožňující interakci s operačním systémem pomocí příkazů
 
+![alt text](./obrazky/command_line.png)
 ### Terminál
 Program nebo zařízení, umožňující připojení k příkazové řádce
 
